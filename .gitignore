@@ -9,7 +9,7 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
-.nb.*
+_nb.*
 
 ### OSX ###
 .DS_Store
