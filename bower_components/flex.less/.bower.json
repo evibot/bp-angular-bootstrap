@@ -1,0 +1,25 @@
+{
+  "name": "flex.less",
+  "homepage": "https://github.com/codio/flex.less",
+  "authors": [
+    "dignifiedquire <dignifiedquire@gmail.com>"
+  ],
+  "description": "A less mixin for flexbox.",
+  "main": "flex.less",
+  "keywords": [
+    "flex",
+    "less",
+    "css",
+    "flexbox"
+  ],
+  "license": "MIT",
+  "_release": "4e1823b877",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4e1823b877459b96cad6ba1fc69e9ba54e806536"
+  },
+  "_source": "git://github.com/codio/flex.less.git",
+  "_target": "master",
+  "_originalSource": "flex.less"
+}
